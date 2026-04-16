@@ -11,7 +11,7 @@ import CGPACalculator from "./pages/CGPACalculator";
 
 function App() {
   return (
-    <Router basename="/Practice-1">
+    <Router>
       <Navbar />
 
       <Routes>
